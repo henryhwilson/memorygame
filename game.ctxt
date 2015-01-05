@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=game()
+comment0.text=\n\ Constructor\n
+comment1.params=
+comment1.target=void\ printCards()
+comment2.params=
+comment2.target=void\ getInput()
+comment3.params=letter
+comment3.target=void\ toggle(java.lang.String)
+comment4.params=letter
+comment4.target=void\ erase(java.lang.String)
+comment5.params=
+comment5.target=void\ hideAll()
+comment6.params=letter1\ letter2
+comment6.target=java.lang.Boolean\ isMatch(java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=void\ shuffle()
+comment8.params=entry
+comment8.target=java.lang.Boolean\ isError(java.lang.String)
+numComments=9
